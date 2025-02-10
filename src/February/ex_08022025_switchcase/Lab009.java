@@ -28,7 +28,7 @@ public class Lab009 {
                 System.out.printf("The Modulus is %d",a/b);
                 break;
             default:
-                System.out.printf("Please enter valid operator");
+                System.out.println("Please enter valid operator");
                 break;
 
         }
