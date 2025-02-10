@@ -1,4 +1,4 @@
-package February.ex_09022025_switchcase;
+package February.ex_08022025_switchcase;
 
 import java.util.Scanner;
 
