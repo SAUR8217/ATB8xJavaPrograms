@@ -16,7 +16,7 @@ public class Lab009 {
                 System.out.printf("The addition is %d",a+b);
                 break;
             case "-":
-                System.out.printf("The Substraction is %d",a-b);
+                System.out.printf("The Subtraction is %d",a-b);
                 break;
             case "*":
                 System.out.printf("The Multiplication is %d",a*b);
