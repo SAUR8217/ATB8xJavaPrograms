@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Lab14 {
     public static void main(String[] args) {
+        //Check weather a number is positive negative or zero.
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number");
         double n = input.nextDouble();
